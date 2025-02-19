@@ -1,0 +1,7 @@
+name: production_env
+channels:
+  - defaults
+dependencies:
+  - python=3.12.6
+  - numpy
+  - pandas
