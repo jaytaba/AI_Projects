@@ -1,0 +1,8 @@
+name: development_env
+channels:
+  - defaults
+dependencies:
+  - python=3.12.6
+  - jupyterlab
+  - black
+  - flake8
